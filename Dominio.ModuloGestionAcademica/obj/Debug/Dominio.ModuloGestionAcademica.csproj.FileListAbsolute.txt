@@ -1,0 +1,102 @@
+C:\Users\luis_\Desktop\CICLO 2022-1\4_DIARS\PROYECTO\SolucionAcademiaSoft_v1\Dominio.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.dll
+C:\Users\luis_\Desktop\CICLO 2022-1\4_DIARS\PROYECTO\SolucionAcademiaSoft_v1\Dominio.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.pdb
+C:\Users\luis_\Desktop\CICLO 2022-1\4_DIARS\PROYECTO\SolucionAcademiaSoft_v1\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.csproj.AssemblyReference.cache
+C:\Users\luis_\Desktop\CICLO 2022-1\4_DIARS\PROYECTO\SolucionAcademiaSoft_v1\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.csproj.CoreCompileInputs.cache
+C:\Users\luis_\Desktop\CICLO 2022-1\4_DIARS\PROYECTO\SolucionAcademiaSoft_v1\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.dll
+C:\Users\luis_\Desktop\CICLO 2022-1\4_DIARS\PROYECTO\SolucionAcademiaSoft_v1\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_8\SolucionAcademiaSoft_V1\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.csproj.AssemblyReference.cache
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_8\SolucionAcademiaSoft_V1\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.csproj.CoreCompileInputs.cache
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_8\SolucionAcademiaSoft_V1\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_8\SolucionAcademiaSoft_V1\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_8\SolucionAcademiaSoft_V1\Dominio.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_8\SolucionAcademiaSoft_V1\Dominio.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.pdb
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_v2\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.csproj.AssemblyReference.cache
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_v2\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.csproj.CoreCompileInputs.cache
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_v2\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.dll
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_v2\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.pdb
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_v2\Dominio.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.dll
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_v2\Dominio.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.pdb
+C:\Users\luis_\Desktop\Nueva carpeta\SolucionAcademiaSoft_v2\Dominio.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.dll
+C:\Users\luis_\Desktop\Nueva carpeta\SolucionAcademiaSoft_v2\Dominio.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.pdb
+C:\Users\luis_\Desktop\Nueva carpeta\SolucionAcademiaSoft_v2\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.csproj.AssemblyReference.cache
+C:\Users\luis_\Desktop\Nueva carpeta\SolucionAcademiaSoft_v2\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.csproj.CoreCompileInputs.cache
+C:\Users\luis_\Desktop\Nueva carpeta\SolucionAcademiaSoft_v2\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.dll
+C:\Users\luis_\Desktop\Nueva carpeta\SolucionAcademiaSoft_v2\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_8\Correcciones\SolucionAcademiaSoft_V5\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.csproj.AssemblyReference.cache
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_8\Correcciones\SolucionAcademiaSoft_V5\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.csproj.CoreCompileInputs.cache
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_8\Correcciones\SolucionAcademiaSoft_V5\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_8\Correcciones\SolucionAcademiaSoft_V5\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_8\Correcciones\SolucionAcademiaSoft_V5\Dominio.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_8\Correcciones\SolucionAcademiaSoft_V5\Dominio.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_8\SolucionAcademiaSoft_V5\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.csproj.AssemblyReference.cache
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_8\SolucionAcademiaSoft_V5\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.csproj.CoreCompileInputs.cache
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_8\SolucionAcademiaSoft_V5\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_8\SolucionAcademiaSoft_V5\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_8\SolucionAcademiaSoft_V5\Dominio.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_8\SolucionAcademiaSoft_V5\Dominio.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.pdb
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V5\Dominio.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.dll
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V5\Dominio.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.pdb
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V5\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.csproj.AssemblyReference.cache
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V5\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.csproj.CoreCompileInputs.cache
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V5\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.dll
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V5\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_9\SolucionAcademiaSoft_V5\Dominio.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_9\SolucionAcademiaSoft_V5\Dominio.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_9\SolucionAcademiaSoft_V5\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.csproj.AssemblyReference.cache
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_9\SolucionAcademiaSoft_V5\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.csproj.CoreCompileInputs.cache
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_9\SolucionAcademiaSoft_V5\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_9\SolucionAcademiaSoft_V5\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.pdb
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V5 (1)\SolucionAcademiaSoft_V5\Dominio.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.dll
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V5 (1)\SolucionAcademiaSoft_V5\Dominio.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.pdb
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V5 (1)\SolucionAcademiaSoft_V5\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.csproj.AssemblyReference.cache
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V5 (1)\SolucionAcademiaSoft_V5\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.csproj.CoreCompileInputs.cache
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V5 (1)\SolucionAcademiaSoft_V5\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.dll
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V5 (1)\SolucionAcademiaSoft_V5\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.pdb
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V6\Dominio.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.dll
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V6\Dominio.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.pdb
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V6\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.csproj.AssemblyReference.cache
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V6\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.csproj.CoreCompileInputs.cache
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V6\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.dll
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V6\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.pdb
+C:\Users\USER\OneDrive\Escritorio\SolucionAcademiaSoft_V6\Dominio.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.dll
+C:\Users\USER\OneDrive\Escritorio\SolucionAcademiaSoft_V6\Dominio.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.pdb
+C:\Users\USER\OneDrive\Escritorio\SolucionAcademiaSoft_V6\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Escritorio\SolucionAcademiaSoft_V6\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Escritorio\SolucionAcademiaSoft_V6\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.dll
+C:\Users\USER\OneDrive\Escritorio\SolucionAcademiaSoft_V6\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_11\SolucionAcademiaSoft_V6\Dominio.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_11\SolucionAcademiaSoft_V6\Dominio.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_11\SolucionAcademiaSoft_V6\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.csproj.AssemblyReference.cache
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_11\SolucionAcademiaSoft_V6\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.csproj.CoreCompileInputs.cache
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_11\SolucionAcademiaSoft_V6\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_11\SolucionAcademiaSoft_V6\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.pdb
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V7\Dominio.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.dll
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V7\Dominio.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.pdb
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V7\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.csproj.AssemblyReference.cache
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V7\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.csproj.CoreCompileInputs.cache
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V7\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.dll
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V7\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V7\Dominio.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V7\Dominio.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V7\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.csproj.AssemblyReference.cache
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V7\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.csproj.CoreCompileInputs.cache
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V7\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V7\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.pdb
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V8\Dominio.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.dll
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V8\Dominio.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.pdb
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V8\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.csproj.AssemblyReference.cache
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V8\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.csproj.CoreCompileInputs.cache
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V8\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.dll
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V8\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V8\Dominio.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V8\Dominio.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V8\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.csproj.AssemblyReference.cache
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V8\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.csproj.CoreCompileInputs.cache
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V8\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V8\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V9\Dominio.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V9\Dominio.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V9\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.csproj.AssemblyReference.cache
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V9\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.csproj.CoreCompileInputs.cache
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V9\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V9\Dominio.ModuloGestionAcademica\obj\Debug\Dominio.ModuloGestionAcademica.pdb

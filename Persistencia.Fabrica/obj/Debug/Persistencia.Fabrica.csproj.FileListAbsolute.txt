@@ -1,0 +1,91 @@
+C:\Users\USER\OneDrive\Escritorio\SolucionAcademiaSoft_V6\Persistencia.Fabrica\obj\Debug\Persistencia.Fabrica.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Escritorio\SolucionAcademiaSoft_V6\Persistencia.Fabrica\obj\Debug\Persistencia.Fabrica.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Escritorio\SolucionAcademiaSoft_V6\Persistencia.Fabrica\bin\Debug\Persistencia.Fabrica.dll
+C:\Users\USER\OneDrive\Escritorio\SolucionAcademiaSoft_V6\Persistencia.Fabrica\bin\Debug\Persistencia.Fabrica.pdb
+C:\Users\USER\OneDrive\Escritorio\SolucionAcademiaSoft_V6\Persistencia.Fabrica\bin\Debug\Dominio.ModuloGestionAcademica.dll
+C:\Users\USER\OneDrive\Escritorio\SolucionAcademiaSoft_V6\Persistencia.Fabrica\bin\Debug\Persistencia.SqlServer.ModuloBase.dll
+C:\Users\USER\OneDrive\Escritorio\SolucionAcademiaSoft_V6\Persistencia.Fabrica\bin\Debug\Persistencia.SqlServer.ModuloGestionAcademica.dll
+C:\Users\USER\OneDrive\Escritorio\SolucionAcademiaSoft_V6\Persistencia.Fabrica\bin\Debug\Dominio.ModuloGestionAcademica.pdb
+C:\Users\USER\OneDrive\Escritorio\SolucionAcademiaSoft_V6\Persistencia.Fabrica\bin\Debug\Persistencia.SqlServer.ModuloBase.pdb
+C:\Users\USER\OneDrive\Escritorio\SolucionAcademiaSoft_V6\Persistencia.Fabrica\bin\Debug\Persistencia.SqlServer.ModuloGestionAcademica.pdb
+C:\Users\USER\OneDrive\Escritorio\SolucionAcademiaSoft_V6\Persistencia.Fabrica\obj\Debug\Persistencia.Fabrica.csproj.CopyComplete
+C:\Users\USER\OneDrive\Escritorio\SolucionAcademiaSoft_V6\Persistencia.Fabrica\obj\Debug\Persistencia.Fabrica.dll
+C:\Users\USER\OneDrive\Escritorio\SolucionAcademiaSoft_V6\Persistencia.Fabrica\obj\Debug\Persistencia.Fabrica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_11\SolucionAcademiaSoft_V6\Persistencia.Fabrica\bin\Debug\Persistencia.Fabrica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_11\SolucionAcademiaSoft_V6\Persistencia.Fabrica\bin\Debug\Persistencia.Fabrica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_11\SolucionAcademiaSoft_V6\Persistencia.Fabrica\bin\Debug\Dominio.ModuloGestionAcademica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_11\SolucionAcademiaSoft_V6\Persistencia.Fabrica\bin\Debug\Persistencia.SqlServer.ModuloBase.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_11\SolucionAcademiaSoft_V6\Persistencia.Fabrica\bin\Debug\Persistencia.SqlServer.ModuloGestionAcademica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_11\SolucionAcademiaSoft_V6\Persistencia.Fabrica\bin\Debug\Dominio.ModuloGestionAcademica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_11\SolucionAcademiaSoft_V6\Persistencia.Fabrica\bin\Debug\Persistencia.SqlServer.ModuloBase.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_11\SolucionAcademiaSoft_V6\Persistencia.Fabrica\bin\Debug\Persistencia.SqlServer.ModuloGestionAcademica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_11\SolucionAcademiaSoft_V6\Persistencia.Fabrica\obj\Debug\Persistencia.Fabrica.csproj.AssemblyReference.cache
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_11\SolucionAcademiaSoft_V6\Persistencia.Fabrica\obj\Debug\Persistencia.Fabrica.csproj.CoreCompileInputs.cache
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_11\SolucionAcademiaSoft_V6\Persistencia.Fabrica\obj\Debug\Persistencia.Fabrica.csproj.CopyComplete
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_11\SolucionAcademiaSoft_V6\Persistencia.Fabrica\obj\Debug\Persistencia.Fabrica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_11\SolucionAcademiaSoft_V6\Persistencia.Fabrica\obj\Debug\Persistencia.Fabrica.pdb
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V7\Persistencia.Fabrica\bin\Debug\Persistencia.Fabrica.dll
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V7\Persistencia.Fabrica\bin\Debug\Persistencia.Fabrica.pdb
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V7\Persistencia.Fabrica\bin\Debug\Dominio.ModuloGestionAcademica.dll
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V7\Persistencia.Fabrica\bin\Debug\Persistencia.SqlServer.ModuloBase.dll
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V7\Persistencia.Fabrica\bin\Debug\Persistencia.SqlServer.ModuloGestionAcademica.dll
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V7\Persistencia.Fabrica\bin\Debug\Dominio.ModuloGestionAcademica.pdb
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V7\Persistencia.Fabrica\bin\Debug\Persistencia.SqlServer.ModuloBase.pdb
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V7\Persistencia.Fabrica\bin\Debug\Persistencia.SqlServer.ModuloGestionAcademica.pdb
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V7\Persistencia.Fabrica\obj\Debug\Persistencia.Fabrica.csproj.AssemblyReference.cache
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V7\Persistencia.Fabrica\obj\Debug\Persistencia.Fabrica.csproj.CoreCompileInputs.cache
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V7\Persistencia.Fabrica\obj\Debug\Persistencia.Fabrica.csproj.CopyComplete
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V7\Persistencia.Fabrica\obj\Debug\Persistencia.Fabrica.dll
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V7\Persistencia.Fabrica\obj\Debug\Persistencia.Fabrica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V7\Persistencia.Fabrica\bin\Debug\Persistencia.Fabrica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V7\Persistencia.Fabrica\bin\Debug\Persistencia.Fabrica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V7\Persistencia.Fabrica\bin\Debug\Dominio.ModuloGestionAcademica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V7\Persistencia.Fabrica\bin\Debug\Persistencia.SqlServer.ModuloBase.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V7\Persistencia.Fabrica\bin\Debug\Persistencia.SqlServer.ModuloGestionAcademica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V7\Persistencia.Fabrica\bin\Debug\Dominio.ModuloGestionAcademica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V7\Persistencia.Fabrica\bin\Debug\Persistencia.SqlServer.ModuloBase.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V7\Persistencia.Fabrica\bin\Debug\Persistencia.SqlServer.ModuloGestionAcademica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V7\Persistencia.Fabrica\obj\Debug\Persistencia.Fabrica.csproj.AssemblyReference.cache
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V7\Persistencia.Fabrica\obj\Debug\Persistencia.Fabrica.csproj.CoreCompileInputs.cache
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V7\Persistencia.Fabrica\obj\Debug\Persistencia.Fabrica.csproj.CopyComplete
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V7\Persistencia.Fabrica\obj\Debug\Persistencia.Fabrica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V7\Persistencia.Fabrica\obj\Debug\Persistencia.Fabrica.pdb
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V8\Persistencia.Fabrica\obj\Debug\Persistencia.Fabrica.csproj.AssemblyReference.cache
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V8\Persistencia.Fabrica\obj\Debug\Persistencia.Fabrica.csproj.CoreCompileInputs.cache
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V8\Persistencia.Fabrica\obj\Debug\Persistencia.Fabrica.dll
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V8\Persistencia.Fabrica\obj\Debug\Persistencia.Fabrica.pdb
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V8\Persistencia.Fabrica\bin\Debug\Persistencia.Fabrica.dll
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V8\Persistencia.Fabrica\bin\Debug\Persistencia.Fabrica.pdb
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V8\Persistencia.Fabrica\bin\Debug\Dominio.ModuloGestionAcademica.dll
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V8\Persistencia.Fabrica\bin\Debug\Persistencia.SqlServer.ModuloBase.dll
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V8\Persistencia.Fabrica\bin\Debug\Persistencia.SqlServer.ModuloGestionAcademica.dll
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V8\Persistencia.Fabrica\bin\Debug\Dominio.ModuloGestionAcademica.pdb
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V8\Persistencia.Fabrica\bin\Debug\Persistencia.SqlServer.ModuloBase.pdb
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V8\Persistencia.Fabrica\bin\Debug\Persistencia.SqlServer.ModuloGestionAcademica.pdb
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V8\Persistencia.Fabrica\obj\Debug\Persistencia.Fabrica.csproj.CopyComplete
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V8\Persistencia.Fabrica\bin\Debug\Persistencia.Fabrica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V8\Persistencia.Fabrica\bin\Debug\Persistencia.Fabrica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V8\Persistencia.Fabrica\bin\Debug\Dominio.ModuloGestionAcademica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V8\Persistencia.Fabrica\bin\Debug\Persistencia.SqlServer.ModuloBase.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V8\Persistencia.Fabrica\bin\Debug\Persistencia.SqlServer.ModuloGestionAcademica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V8\Persistencia.Fabrica\bin\Debug\Dominio.ModuloGestionAcademica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V8\Persistencia.Fabrica\bin\Debug\Persistencia.SqlServer.ModuloBase.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V8\Persistencia.Fabrica\bin\Debug\Persistencia.SqlServer.ModuloGestionAcademica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V8\Persistencia.Fabrica\obj\Debug\Persistencia.Fabrica.csproj.AssemblyReference.cache
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V8\Persistencia.Fabrica\obj\Debug\Persistencia.Fabrica.csproj.CoreCompileInputs.cache
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V8\Persistencia.Fabrica\obj\Debug\Persistencia.Fabrica.csproj.CopyComplete
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V8\Persistencia.Fabrica\obj\Debug\Persistencia.Fabrica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V8\Persistencia.Fabrica\obj\Debug\Persistencia.Fabrica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V9\Persistencia.Fabrica\bin\Debug\Persistencia.Fabrica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V9\Persistencia.Fabrica\bin\Debug\Persistencia.Fabrica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V9\Persistencia.Fabrica\bin\Debug\Dominio.ModuloGestionAcademica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V9\Persistencia.Fabrica\bin\Debug\Persistencia.SqlServer.ModuloBase.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V9\Persistencia.Fabrica\bin\Debug\Persistencia.SqlServer.ModuloGestionAcademica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V9\Persistencia.Fabrica\bin\Debug\Dominio.ModuloGestionAcademica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V9\Persistencia.Fabrica\bin\Debug\Persistencia.SqlServer.ModuloBase.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V9\Persistencia.Fabrica\bin\Debug\Persistencia.SqlServer.ModuloGestionAcademica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V9\Persistencia.Fabrica\obj\Debug\Persistencia.Fabrica.csproj.AssemblyReference.cache
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V9\Persistencia.Fabrica\obj\Debug\Persistencia.Fabrica.csproj.CoreCompileInputs.cache
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V9\Persistencia.Fabrica\obj\Debug\Persistencia.Fabrica.csproj.CopyComplete
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V9\Persistencia.Fabrica\obj\Debug\Persistencia.Fabrica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V9\Persistencia.Fabrica\obj\Debug\Persistencia.Fabrica.pdb

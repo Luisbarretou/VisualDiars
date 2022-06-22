@@ -1,0 +1,248 @@
+C:\Users\luis_\Desktop\CICLO 2022-1\4_DIARS\PROYECTO\SolucionAcademiaSoft_v1\Aplicacion.ModuloGestionAcademica\bin\Debug\Aplicacion.ModuloGestionAcademica.dll
+C:\Users\luis_\Desktop\CICLO 2022-1\4_DIARS\PROYECTO\SolucionAcademiaSoft_v1\Aplicacion.ModuloGestionAcademica\bin\Debug\Aplicacion.ModuloGestionAcademica.pdb
+C:\Users\luis_\Desktop\CICLO 2022-1\4_DIARS\PROYECTO\SolucionAcademiaSoft_v1\Aplicacion.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.dll
+C:\Users\luis_\Desktop\CICLO 2022-1\4_DIARS\PROYECTO\SolucionAcademiaSoft_v1\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloBase.dll
+C:\Users\luis_\Desktop\CICLO 2022-1\4_DIARS\PROYECTO\SolucionAcademiaSoft_v1\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloGestionAcademica.dll
+C:\Users\luis_\Desktop\CICLO 2022-1\4_DIARS\PROYECTO\SolucionAcademiaSoft_v1\Aplicacion.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.pdb
+C:\Users\luis_\Desktop\CICLO 2022-1\4_DIARS\PROYECTO\SolucionAcademiaSoft_v1\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloBase.pdb
+C:\Users\luis_\Desktop\CICLO 2022-1\4_DIARS\PROYECTO\SolucionAcademiaSoft_v1\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloGestionAcademica.pdb
+C:\Users\luis_\Desktop\CICLO 2022-1\4_DIARS\PROYECTO\SolucionAcademiaSoft_v1\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.csproj.AssemblyReference.cache
+C:\Users\luis_\Desktop\CICLO 2022-1\4_DIARS\PROYECTO\SolucionAcademiaSoft_v1\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.csproj.CoreCompileInputs.cache
+C:\Users\luis_\Desktop\CICLO 2022-1\4_DIARS\PROYECTO\SolucionAcademiaSoft_v1\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.csproj.CopyComplete
+C:\Users\luis_\Desktop\CICLO 2022-1\4_DIARS\PROYECTO\SolucionAcademiaSoft_v1\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.dll
+C:\Users\luis_\Desktop\CICLO 2022-1\4_DIARS\PROYECTO\SolucionAcademiaSoft_v1\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_8\SolucionAcademiaSoft_V1\Aplicacion.ModuloGestionAcademica\bin\Debug\Aplicacion.ModuloGestionAcademica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_8\SolucionAcademiaSoft_V1\Aplicacion.ModuloGestionAcademica\bin\Debug\Aplicacion.ModuloGestionAcademica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_8\SolucionAcademiaSoft_V1\Aplicacion.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_8\SolucionAcademiaSoft_V1\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloBase.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_8\SolucionAcademiaSoft_V1\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloGestionAcademica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_8\SolucionAcademiaSoft_V1\Aplicacion.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_8\SolucionAcademiaSoft_V1\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloBase.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_8\SolucionAcademiaSoft_V1\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloGestionAcademica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_8\SolucionAcademiaSoft_V1\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.csproj.AssemblyReference.cache
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_8\SolucionAcademiaSoft_V1\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.csproj.CoreCompileInputs.cache
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_8\SolucionAcademiaSoft_V1\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.csproj.CopyComplete
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_8\SolucionAcademiaSoft_V1\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_8\SolucionAcademiaSoft_V1\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.pdb
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_v2\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.csproj.AssemblyReference.cache
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_v2\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.csproj.CoreCompileInputs.cache
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_v2\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.dll
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_v2\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.pdb
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_v2\Aplicacion.ModuloGestionAcademica\bin\Debug\Aplicacion.ModuloGestionAcademica.dll
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_v2\Aplicacion.ModuloGestionAcademica\bin\Debug\Aplicacion.ModuloGestionAcademica.pdb
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_v2\Aplicacion.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.dll
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_v2\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloBase.dll
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_v2\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloGestionAcademica.dll
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_v2\Aplicacion.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.pdb
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_v2\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloBase.pdb
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_v2\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloGestionAcademica.pdb
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_v2\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.csproj.CopyComplete
+C:\Users\luis_\Desktop\Nueva carpeta\SolucionAcademiaSoft_v2\Aplicacion.ModuloGestionAcademica\bin\Debug\Aplicacion.ModuloGestionAcademica.dll
+C:\Users\luis_\Desktop\Nueva carpeta\SolucionAcademiaSoft_v2\Aplicacion.ModuloGestionAcademica\bin\Debug\Aplicacion.ModuloGestionAcademica.pdb
+C:\Users\luis_\Desktop\Nueva carpeta\SolucionAcademiaSoft_v2\Aplicacion.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.dll
+C:\Users\luis_\Desktop\Nueva carpeta\SolucionAcademiaSoft_v2\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloBase.dll
+C:\Users\luis_\Desktop\Nueva carpeta\SolucionAcademiaSoft_v2\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloGestionAcademica.dll
+C:\Users\luis_\Desktop\Nueva carpeta\SolucionAcademiaSoft_v2\Aplicacion.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.pdb
+C:\Users\luis_\Desktop\Nueva carpeta\SolucionAcademiaSoft_v2\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloBase.pdb
+C:\Users\luis_\Desktop\Nueva carpeta\SolucionAcademiaSoft_v2\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloGestionAcademica.pdb
+C:\Users\luis_\Desktop\Nueva carpeta\SolucionAcademiaSoft_v2\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.csproj.AssemblyReference.cache
+C:\Users\luis_\Desktop\Nueva carpeta\SolucionAcademiaSoft_v2\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.csproj.CoreCompileInputs.cache
+C:\Users\luis_\Desktop\Nueva carpeta\SolucionAcademiaSoft_v2\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.csproj.CopyComplete
+C:\Users\luis_\Desktop\Nueva carpeta\SolucionAcademiaSoft_v2\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.dll
+C:\Users\luis_\Desktop\Nueva carpeta\SolucionAcademiaSoft_v2\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_8\Correcciones\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.csproj.AssemblyReference.cache
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_8\Correcciones\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.csproj.CoreCompileInputs.cache
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_8\Correcciones\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_8\Correcciones\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_8\Correcciones\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\bin\Debug\Aplicacion.ModuloGestionAcademica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_8\Correcciones\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\bin\Debug\Aplicacion.ModuloGestionAcademica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_8\Correcciones\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_8\Correcciones\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloBase.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_8\Correcciones\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloGestionAcademica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_8\Correcciones\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_8\Correcciones\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloBase.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_8\Correcciones\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloGestionAcademica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_8\Correcciones\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.csproj.CopyComplete
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_8\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\bin\Debug\Aplicacion.ModuloGestionAcademica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_8\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\bin\Debug\Aplicacion.ModuloGestionAcademica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_8\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_8\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloBase.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_8\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloGestionAcademica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_8\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_8\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloBase.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_8\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloGestionAcademica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_8\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.csproj.AssemblyReference.cache
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_8\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.csproj.CoreCompileInputs.cache
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_8\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.csproj.CopyComplete
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_8\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_8\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.pdb
+C:\Users\USER\Downloads\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\bin\Debug\Aplicacion.ModuloGestionAcademica.dll
+C:\Users\USER\Downloads\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\bin\Debug\Aplicacion.ModuloGestionAcademica.pdb
+C:\Users\USER\Downloads\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.dll
+C:\Users\USER\Downloads\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloBase.dll
+C:\Users\USER\Downloads\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloGestionAcademica.dll
+C:\Users\USER\Downloads\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.pdb
+C:\Users\USER\Downloads\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloBase.pdb
+C:\Users\USER\Downloads\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloGestionAcademica.pdb
+C:\Users\USER\Downloads\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.csproj.CopyComplete
+C:\Users\USER\Downloads\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.dll
+C:\Users\USER\Downloads\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.pdb
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\bin\Debug\Aplicacion.ModuloGestionAcademica.dll
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\bin\Debug\Aplicacion.ModuloGestionAcademica.pdb
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.dll
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloBase.dll
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloGestionAcademica.dll
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.pdb
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloBase.pdb
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloGestionAcademica.pdb
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.csproj.AssemblyReference.cache
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.csproj.CoreCompileInputs.cache
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.csproj.CopyComplete
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.dll
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_9\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\bin\Debug\Aplicacion.ModuloGestionAcademica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_9\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\bin\Debug\Aplicacion.ModuloGestionAcademica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_9\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_9\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloBase.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_9\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloGestionAcademica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_9\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_9\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloBase.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_9\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloGestionAcademica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_9\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.csproj.AssemblyReference.cache
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_9\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.csproj.CoreCompileInputs.cache
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_9\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.csproj.CopyComplete
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_9\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_9\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.pdb
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V5 (1)\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.csproj.AssemblyReference.cache
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V5 (1)\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.csproj.CoreCompileInputs.cache
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V5 (1)\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.dll
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V5 (1)\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.pdb
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V5 (1)\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\bin\Debug\Aplicacion.ModuloGestionAcademica.dll
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V5 (1)\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\bin\Debug\Aplicacion.ModuloGestionAcademica.pdb
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V5 (1)\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.dll
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V5 (1)\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloBase.dll
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V5 (1)\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloGestionAcademica.dll
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V5 (1)\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.pdb
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V5 (1)\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloBase.pdb
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V5 (1)\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloGestionAcademica.pdb
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V5 (1)\SolucionAcademiaSoft_V5\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.csproj.CopyComplete
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V6\Aplicacion.ModuloGestionAcademica\bin\Debug\Aplicacion.ModuloGestionAcademica.dll
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V6\Aplicacion.ModuloGestionAcademica\bin\Debug\Aplicacion.ModuloGestionAcademica.pdb
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V6\Aplicacion.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.dll
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V6\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloBase.dll
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V6\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloGestionAcademica.dll
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V6\Aplicacion.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.pdb
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V6\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloBase.pdb
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V6\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloGestionAcademica.pdb
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V6\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.csproj.AssemblyReference.cache
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V6\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.csproj.CoreCompileInputs.cache
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V6\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.csproj.CopyComplete
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V6\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.dll
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V6\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.pdb
+C:\Users\USER\OneDrive\Escritorio\SolucionAcademiaSoft_V6\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Escritorio\SolucionAcademiaSoft_V6\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Escritorio\SolucionAcademiaSoft_V6\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.dll
+C:\Users\USER\OneDrive\Escritorio\SolucionAcademiaSoft_V6\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.pdb
+C:\Users\USER\OneDrive\Escritorio\SolucionAcademiaSoft_V6\Aplicacion.ModuloGestionAcademica\bin\Debug\Aplicacion.ModuloGestionAcademica.dll
+C:\Users\USER\OneDrive\Escritorio\SolucionAcademiaSoft_V6\Aplicacion.ModuloGestionAcademica\bin\Debug\Aplicacion.ModuloGestionAcademica.pdb
+C:\Users\USER\OneDrive\Escritorio\SolucionAcademiaSoft_V6\Aplicacion.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.dll
+C:\Users\USER\OneDrive\Escritorio\SolucionAcademiaSoft_V6\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.Fabrica.dll
+C:\Users\USER\OneDrive\Escritorio\SolucionAcademiaSoft_V6\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloBase.dll
+C:\Users\USER\OneDrive\Escritorio\SolucionAcademiaSoft_V6\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloGestionAcademica.dll
+C:\Users\USER\OneDrive\Escritorio\SolucionAcademiaSoft_V6\Aplicacion.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.pdb
+C:\Users\USER\OneDrive\Escritorio\SolucionAcademiaSoft_V6\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.Fabrica.pdb
+C:\Users\USER\OneDrive\Escritorio\SolucionAcademiaSoft_V6\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloBase.pdb
+C:\Users\USER\OneDrive\Escritorio\SolucionAcademiaSoft_V6\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloGestionAcademica.pdb
+C:\Users\USER\OneDrive\Escritorio\SolucionAcademiaSoft_V6\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.csproj.CopyComplete
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_11\SolucionAcademiaSoft_V6\Aplicacion.ModuloGestionAcademica\bin\Debug\Aplicacion.ModuloGestionAcademica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_11\SolucionAcademiaSoft_V6\Aplicacion.ModuloGestionAcademica\bin\Debug\Aplicacion.ModuloGestionAcademica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_11\SolucionAcademiaSoft_V6\Aplicacion.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_11\SolucionAcademiaSoft_V6\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.Fabrica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_11\SolucionAcademiaSoft_V6\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloBase.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_11\SolucionAcademiaSoft_V6\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloGestionAcademica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_11\SolucionAcademiaSoft_V6\Aplicacion.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_11\SolucionAcademiaSoft_V6\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.Fabrica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_11\SolucionAcademiaSoft_V6\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloBase.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_11\SolucionAcademiaSoft_V6\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloGestionAcademica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_11\SolucionAcademiaSoft_V6\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.csproj.AssemblyReference.cache
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_11\SolucionAcademiaSoft_V6\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.csproj.CoreCompileInputs.cache
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_11\SolucionAcademiaSoft_V6\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.csproj.CopyComplete
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_11\SolucionAcademiaSoft_V6\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\Semana_11\SolucionAcademiaSoft_V6\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.pdb
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V7\Aplicacion.ModuloGestionAcademica\bin\Debug\Aplicacion.ModuloGestionAcademica.dll
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V7\Aplicacion.ModuloGestionAcademica\bin\Debug\Aplicacion.ModuloGestionAcademica.pdb
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V7\Aplicacion.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.dll
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V7\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.Fabrica.dll
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V7\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloBase.dll
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V7\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloGestionAcademica.dll
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V7\Aplicacion.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.pdb
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V7\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.Fabrica.pdb
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V7\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloBase.pdb
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V7\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloGestionAcademica.pdb
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V7\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.csproj.AssemblyReference.cache
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V7\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.csproj.CoreCompileInputs.cache
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V7\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.csproj.CopyComplete
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V7\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.dll
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V7\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V7\Aplicacion.ModuloGestionAcademica\bin\Debug\Aplicacion.ModuloGestionAcademica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V7\Aplicacion.ModuloGestionAcademica\bin\Debug\Aplicacion.ModuloGestionAcademica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V7\Aplicacion.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V7\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.Fabrica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V7\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloBase.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V7\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloGestionAcademica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V7\Aplicacion.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V7\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.Fabrica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V7\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloBase.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V7\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloGestionAcademica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V7\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.csproj.AssemblyReference.cache
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V7\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.csproj.CoreCompileInputs.cache
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V7\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.csproj.CopyComplete
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V7\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V7\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.pdb
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V8\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.csproj.AssemblyReference.cache
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V8\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.csproj.CoreCompileInputs.cache
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V8\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.dll
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V8\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.pdb
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V8\Aplicacion.ModuloGestionAcademica\bin\Debug\Aplicacion.ModuloGestionAcademica.dll
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V8\Aplicacion.ModuloGestionAcademica\bin\Debug\Aplicacion.ModuloGestionAcademica.pdb
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V8\Aplicacion.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.dll
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V8\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.Fabrica.dll
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V8\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloBase.dll
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V8\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloGestionAcademica.dll
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V8\Aplicacion.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.pdb
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V8\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.Fabrica.pdb
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V8\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloBase.pdb
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V8\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloGestionAcademica.pdb
+C:\Users\luis_\Desktop\SolucionAcademiaSoft_V8\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.csproj.CopyComplete
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V8\Aplicacion.ModuloGestionAcademica\bin\Debug\Aplicacion.ModuloGestionAcademica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V8\Aplicacion.ModuloGestionAcademica\bin\Debug\Aplicacion.ModuloGestionAcademica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V8\Aplicacion.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V8\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.Fabrica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V8\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloBase.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V8\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloGestionAcademica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V8\Aplicacion.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V8\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.Fabrica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V8\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloBase.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V8\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloGestionAcademica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V8\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.csproj.AssemblyReference.cache
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V8\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.csproj.CoreCompileInputs.cache
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V8\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.csproj.CopyComplete
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V8\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V8\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V9\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.csproj.AssemblyReference.cache
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V9\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.csproj.CoreCompileInputs.cache
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V9\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V9\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V9\Aplicacion.ModuloGestionAcademica\bin\Debug\Aplicacion.ModuloGestionAcademica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V9\Aplicacion.ModuloGestionAcademica\bin\Debug\Aplicacion.ModuloGestionAcademica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V9\Aplicacion.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V9\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.Fabrica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V9\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloBase.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V9\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloGestionAcademica.dll
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V9\Aplicacion.ModuloGestionAcademica\bin\Debug\Dominio.ModuloGestionAcademica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V9\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.Fabrica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V9\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloBase.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V9\Aplicacion.ModuloGestionAcademica\bin\Debug\Persistencia.SqlServer.ModuloGestionAcademica.pdb
+D:\Users\Alexis\Documents\Ing Sistemas\Ciclo 7\3. DISEÑO Y ARQUIT. DE SOFTWARE\SolucionAcademiaSoft_V9\Aplicacion.ModuloGestionAcademica\obj\Debug\Aplicacion.ModuloGestionAcademica.csproj.CopyComplete
